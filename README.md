@@ -4,9 +4,13 @@ Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the p
 
 源码部署
 此次使用intellij
+
 1.导入源码
+
 2.clean install
+
 3.jetty:run
+
 4.登录用户名密码root/root
 
 
