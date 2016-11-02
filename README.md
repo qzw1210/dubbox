@@ -2,15 +2,13 @@ Dubbox now means Dubbo eXtensions. If you know java, javax and dubbo, you know w
 
 Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the popular [dubbo service framework](http://github.com/alibaba/dubbo). It's been used by several projects of [dangdang.com](http://www.dangdang.com), which is one of the major e-commerce companies in China.
 
-## 主要贡献者
+源码部署
+此次使用intellij
+1.导入源码
+2.clean install
+3.jetty:run
+4.登录用户名密码root/root
 
-* 沈理 [当当网](http://www.dangdang.com/) shenli@dangdang.com
-* 王宇轩 [当当网](http://www.dangdang.com/) wangyuxuan@dangdang.com
-* 马金凯 [韩都衣舍](http://www.handu.com/) majinkai@handu.com
-* Dylan 独立开发者 dinguangx@163.com
-* Kangfoo 独立开发者
-
-有技术问题请移步此处讨论 https://github.com/dangdangdotcom/dubbox/issues
 
 ## Dubbox当前的主要功能
 
